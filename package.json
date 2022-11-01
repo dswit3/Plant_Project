@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dswit3/Plant_Project/issues"
   },
-  "homepage": "https://github.com/dswit3/Plant_Project#readme"
+  "homepage": "https://github.com/dswit3/Plant_Project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
